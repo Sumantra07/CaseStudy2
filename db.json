@@ -1,0 +1,42 @@
+{
+  "Cv": [
+    {
+      "profile": {
+        "name": "Sumantra Bhattacharyya",
+        "designation": "Project Lead / Scrum Master",
+        "overview": "9 years of Software Engineering experience, with strong analytical skills and a broad range of mobile development expertise. A seasoned project lead with deep knowledge on Agile methodologies. Certified Scrum master.",
+        "Personality": [
+          "Go-getter",
+          "Inquisitive",
+          "Leadership",
+          "Approachable",
+          "Practical",
+          "Solution-provider"
+        ],
+        "address": "#123, SomeBuilding, MG Road, Bangalore, Karnataka, pincode -560001",
+        "Email": "sumantra.bhattacharyya@gmail.com",
+        "Mobile": "+91-000-0000"
+      }
+    },
+    {
+      "information": {
+        "BasicInformation": " Team Leader and Certified Scrum Master with More than 3 years of Team leading Experience. Well versed with Java/ C#. Android /iOS Application development. Excellent Knowledge on Bluetooth LE concepts. Exposure to Full stack development. Excellent interpersonal skills. Extensive experience in client handling.",
+        "Education": "B.Tech. in ComputerScience and Engineering from West Bengal University of Technology, Graduation - 2009",
+        "Experience": [
+          {
+            "role": "Project Lead",
+            "organization": "Siemens Technology India Pvt limited , Bangalore",
+            "duration": "2014, July - Present",
+            "work": "Leading Team to develop  mobile applications for both android and iOS platforms."
+          },
+          {
+            "role": "Senior Software Engineer",
+            "organization": "LG India pvt Ltd , Bangalore",
+            "duration": "2010,Feb-2014,June",
+            "work": "Developing and testing mobile applications."
+          }
+        ]
+      }
+    }
+  ]
+}

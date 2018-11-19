@@ -1,0 +1,71 @@
+  body{
+  background-color: bisque; 
+  }
+  #ProfileOverview {
+    background-color:rgb(160, 155, 155);
+    color: white;
+  }
+  .banner {
+  background-color:rgb(160, 155, 155);
+  padding-left: 10px;
+  margin-top: 40px;
+  color: white;
+  }
+  .top {
+    height: 20px;
+    background-color: rgb(160, 155, 155);
+    margin-left : 0px;
+    padding-left: 0px;
+  }
+  .bottom {
+    width: 100%;
+    height: 130px;
+    background: linear-gradient(to right bottom,rgb(160, 155, 155) 50%, transparent 50%);
+    margin-left : 0px;
+  }
+  .background {
+
+    width: 100%;
+
+  }
+  .fill {
+    min-height: 100%;
+    height: 100%;
+  }
+  .col-md-12 {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+  }
+  .col-md-4 {
+  background-color: bisque; 
+  
+  }
+
+  #exentedrow {
+
+    margin-left: -30px;
+    margin-right: -30px;
+
+  }
+  .contactDetails {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top : 30px;
+  }
+  #informationPanel {
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  hr {
+    background-color: transparent;
+    border-top: 1px solid #ccc;
+  }
+  #buttonLogin,#buttonregister {
+    background-color: rgb(160, 155, 155);
+    border-color: #080808;
+    color: #080808;
+  }
+  #Signuplink,#loginlink {
+    color: #080808;
+  }
